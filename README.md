@@ -6,4 +6,5 @@ Technologies:
 2. Blockchain: Ethereum or Polygon, IPFS for storage
 3. Smart Contracts: Solidity
 4. Frontend: React
-5. Why it shines: Demonstrates real-world utility in KYC (Know Your Customer) and digital identity, hot topics in Web3 and FinTech.
+
+This demonstrates a real-world utility in KYC (Know Your Customer) and digital identity, a hot solution in Web3 and FinTech.
